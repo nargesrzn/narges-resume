@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/narges-resume/static/css/main.e41226cc.chunk.css",
+    "main.js": "/narges-resume/static/js/main.e586cca8.chunk.js",
+    "main.js.map": "/narges-resume/static/js/main.e586cca8.chunk.js.map",
+    "runtime-main.js": "/narges-resume/static/js/runtime-main.e8980bdf.js",
+    "runtime-main.js.map": "/narges-resume/static/js/runtime-main.e8980bdf.js.map",
+    "static/js/2.0df408a4.chunk.js": "/narges-resume/static/js/2.0df408a4.chunk.js",
+    "static/js/2.0df408a4.chunk.js.map": "/narges-resume/static/js/2.0df408a4.chunk.js.map",
+    "index.html": "/narges-resume/index.html",
+    "precache-manifest.e2cdec90153ccb1a5d27c17f384b3f58.js": "/narges-resume/precache-manifest.e2cdec90153ccb1a5d27c17f384b3f58.js",
+    "service-worker.js": "/narges-resume/service-worker.js",
+    "static/css/main.e41226cc.chunk.css.map": "/narges-resume/static/css/main.e41226cc.chunk.css.map",
+    "static/js/2.0df408a4.chunk.js.LICENSE": "/narges-resume/static/js/2.0df408a4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8980bdf.js",
+    "static/js/2.0df408a4.chunk.js",
+    "static/css/main.e41226cc.chunk.css",
+    "static/js/main.e586cca8.chunk.js"
+  ]
+}
