@@ -1,0 +1,19 @@
+.card-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.card-wrapper {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.card {
+  justify-content: space-between;
+}
+.image-wrapper > img {
+  width: 40%;
+}
+.skill {
+  margin-bottom: 5%;
+}

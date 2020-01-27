@@ -1,0 +1,61 @@
+{
+  "navItems": ["About", "Skills"],
+  "title": "Hello, I'm Narges!",
+  "subtitle": "Front-End developer",
+  "links": {
+    "linkrdin": "https://www.linkedin.com/in/narges-rezaiean-4a2a33167/",
+    "github": "https://github.com/nargesrzn"
+  },
+  "section": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I'm in love with design and programming."
+        },
+        {
+          "type": "p",
+          "content": "I enjoy learning new things."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "html.png",
+            "title": "HTML"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "css.png",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "javascript.png",
+            "title": "JavaScript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "react.png",
+            "title": "React"
+          }
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "down": "down.png",
+    "up": "up.png"
+  }
+}

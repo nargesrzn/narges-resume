@@ -1,0 +1,12 @@
+.navigation {
+  position: fixed;
+  width: 100%;
+}
+.theme {
+  float: left;
+}
+.nav {
+  float: right;
+  margin-top: 10px;
+  margin-right: 20px;
+}
